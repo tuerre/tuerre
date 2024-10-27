@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, soy aka 🎃 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, soy aka 🎃 </b></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -52,7 +52,7 @@ Tengo 15 años, Santo Domingo, DR. Soy un novato en el mundo de la programación
 <a href="mailto:jendryjhancel@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" >
   <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton">
 </a>
-<a href="https://www.linkedln.com/@luvrmoonss">
+<a href="https://do.linkedin.com/in/jendry-de-leon-b2a46b2a6">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
