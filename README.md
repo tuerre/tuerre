@@ -49,8 +49,8 @@ Tengo 15 años, Santo Domingo, DR. Soy un novato en el mundo de la programación
 <a href= "https://www.instagram.com/abreuendry_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@endry_1810" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+<a href="mailto:jendryjhancel@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" >
+  <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton">
 </a>
 <a href="https://www.linkedln.com/@luvrmoonss">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
