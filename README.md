@@ -11,7 +11,7 @@ Tengo 15 años, Santo Domingo, DR. Soy un novato en el mundo de la programación
 - 👯 I’m not looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 🩵 Additionally, I really like being on discord, helping, playing videogames and creating content about programming, feel free to stalkme!
-- 📫 Reach out to me at: <a href="mailto:jendryjhancel@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" target="_blank">jendryjhancel@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:jendryjhancel@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻">jendryjhancel@gmail.com</a>
 
 ## My Skills Include
 
@@ -43,7 +43,7 @@ Tengo 15 años, Santo Domingo, DR. Soy un novato en el mundo de la programación
 <a href= "https://www.instagram.com/abreuendry_/?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="mailto:jendryjhancel@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" target="_blank">
+<a href="mailto:jendryjhancel@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" >
   <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton">
 </a>
 <a href="https://do.linkedin.com/in/jendry-de-leon-b2a46b2a6" target="_blank">
