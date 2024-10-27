@@ -52,7 +52,7 @@ Tengo 15 años, Santo Domingo, DR. Soy un novato en el mundo de la programación
 <a href="mailto:jendryjhancel@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" target="_blank">
   <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton">
 </a>
-<a href="https://www.do.linkedin.com/in/jendry-de-leon-b2a46b2a6" target="_blank">
+<a href="https://do.linkedin.com/in/jendry-de-leon-b2a46b2a6" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
