@@ -1,15 +1,15 @@
 <h1 align="center">Hey, soy Jendry 🧛🏼‍♀️</h1>
 <h3 align="center">A passionate frontend (for now) developer from DR</h3>
 
-- 🔭 I’m currently working on [my School Final Project](https://github.com/tuerre/education-project)
+- 🔭 I’m currently working on [my school final project](https://github.com/tuerre/education-project)
 
 - 🌱 I’m currently learning **Python, POO and the C-world**
 
-- 👨‍💻 All of my projects are available at [https://tuerre.dev/](https://tuerre.dev/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://tuerre.dev/)
 
-- 📝 I regularly write articles on [https://github.com/tuerre/education-project](https://github.com/tuerre/education-project)
+- 📝 I regularly write articles on [DevHub](https://github.com/tuerre/education-project)
 
-- 📄 Know about my experiences [https://tuerre.dev/](https://tuerre.dev/)
+- 📄 Know about my experiences [tuerre](https://tuerre.dev/)
 
 - ⚡ Fun fact **I use Dominican slang, I think it's funny...**
 
