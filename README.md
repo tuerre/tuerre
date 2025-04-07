@@ -1,7 +1,7 @@
 <h1 align="center">Hey, soy Jendry 🧛🏼‍♀️</h1>
 <h3 align="center">A passionate frontend (for now) developer from DR</h3>
 
-- 🔭 I’m currently working on [my school final project](https://github.com/tuerre/education-project)
+- 🔭 I’m currently working on school projects
 
 - 🌱 I’m currently learning **Python, POO and the C-world**
 
