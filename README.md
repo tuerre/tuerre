@@ -33,7 +33,7 @@ Actualmente enfocado en:
    <a href="https://www.instagram.com/de1eonzz/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram contact" /></a>
   <a href="https://discordapp.com/users/tuerre" target="blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord contact" /></a>
  <a href="mailto:jendryjhancel@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email contact" /></a>
- <a href="https://solo.to/tuerre" target="_blank"> <img src="https://github.com/tuerre/digital-vision/blob/main/soloto.png" width="48px" height="48px" style="border-radius: 10px;" alt="SoloTo contact" /></a>
+ <a href="https://solo.to/tuerre" target="_blank"> <img src="https://github.com/tuerre/digital-vision/blob/main/soloto.png" width="48px" height="48px" style="border-radius: 10%;" alt="SoloTo contact" /></a>
 
 </p>
 <br>
