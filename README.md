@@ -47,6 +47,7 @@ Actualmente enfocado en:
 Lo que se me atraviese en el camino xd (php).
 
 ```
-![snake gif](https://github.com/tuerre/digital-vision/blob/main/ocean.gif)
+![snake gif](https://github.com/Ronny-Abreu/Ronny-Abreu/blob/output/github-snake-dark.svg)
+
 
 
