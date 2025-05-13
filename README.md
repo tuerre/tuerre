@@ -11,7 +11,7 @@ Actualmente enfocado en:
 
 - 🧩 Desarrollo Front-end con **REACT** y **TAILWIND**
 - 🎨 Diseño UI moderno usando **Tailwind CSS** y **Figma**
-- 🌱 Desarrollo Back-end con **SQL**, **JS** y **PYTHON**
+- 🌱 Desarrollo Back-end con **SQL**, **Node** y **PYTHON**
 
 ---
 
