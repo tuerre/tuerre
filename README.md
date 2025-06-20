@@ -41,7 +41,7 @@ Actualmente enfocado en:
 
 
 
-Lo que se me atraviese en el camino xd (php).
+node, express y ese mundillo.
 
 ```
 ![snake gif](https://github.com/Ronny-Abreu/Ronny-Abreu/blob/output/github-snake-dark.svg)
