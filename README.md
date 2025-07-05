@@ -10,7 +10,7 @@
 Actualmente enfocado en:
 
 - 🧩 Desarrollo Front-end con **REACT** y **TAILWIND**
-- 🌱 Desarrollo Back-end con **SQL**, **Node** y **PYTHON**
+- 🌱 Desarrollo Back-end con **SQL**, **Node** y **TYPESCRIPT**
 
 ---
 
